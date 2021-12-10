@@ -1,5 +1,5 @@
 ### Hi there 👋
- [![Linkedin Badge](https://img.shields.io/badge/-João Freitas-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaoovfreitas/)
+ [![Linkedin Badge](https://img.shields.io/badge/-JoaoFreitas-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaoovfreitas/)
 
 - 🔭 I’m currently working on Nexaas
 - 🌱 I’m currently learning Kotlin multiplatform and Flutter
