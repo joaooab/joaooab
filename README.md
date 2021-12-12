@@ -17,4 +17,4 @@
 
 ### Contact with me 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-JoaoFreitas-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaoovfreitas/)
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaoovfreitas/)
