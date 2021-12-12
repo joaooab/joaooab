@@ -15,6 +15,6 @@
   <img style="width: 100%" src="https://github-readme-stats.vercel.app/api?username=joaooab&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
 </div>
 
-### Contact with me 👋
+### Contact with me
 
-[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaoovfreitas/)
+<a href="https://www.linkedin.com/in/joaoovfreitas/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
