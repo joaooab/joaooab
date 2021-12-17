@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 
-- 🔭 I’m currently working on Nexaas
+- 🔭 I’m currently working as a Mobile Engineer @Nexaas
 - 🌱 I’m currently learning Kotlin multiplatform and Flutter
 
 
