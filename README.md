@@ -16,10 +16,10 @@
 </div>
 
 ### Projects :bulb:
-<a href="https://play.google.com/store/apps/details?id=com.br.weightcontrol" target="_blank"><img src="images/balanca.png" alt="" width=50px height=50px/></a>
-<a href="https://play.google.com/store/apps/details?id=br.com.joaoov" target="_blank"><img src="images/gro.png" alt="" width=50px height=50px/></a>
-<a href="https://play.google.com/store/apps/details?id=com.babyweight.babyweight" target="_blank"><img src="images/percentil.png" alt="" width=50px height=50px/></a>
-<img src="images/covidbr.png" alt="" width=50px height=50px/>
+<a href="https://play.google.com/store/apps/details?id=com.br.weightcontrol" target="_blank"><img src="https://raw.githubusercontent.com/joaooab/joaooab.github.io/master/images/balanca.png" alt="" width=50px height=50px/></a>
+<a href="https://play.google.com/store/apps/details?id=br.com.joaoov" target="_blank"><img src="https://raw.githubusercontent.com/joaooab/joaooab.github.io/master/images/gro.png" alt="" width=50px height=50px/></a>
+<a href="https://play.google.com/store/apps/details?id=com.babyweight.babyweight" target="_blank"><img src="https://raw.githubusercontent.com/joaooab/joaooab.github.io/master/images/percentil.png" alt="" width=50px height=50px/></a>
+<img src="https://raw.githubusercontent.com/joaooab/joaooab.github.io/master/images/covidbr.png" alt="" width=50px height=50px/>
 
 </br>
 
