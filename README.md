@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Mobile Engineer @Nexaas
+- 🔭 I’m currently working as a Mobile Engineer
 - 🌱 I’m currently learning Kotlin multiplatform
 - :gem: Enthusiastic about technology and innovation. I believe teamwork and empathy is the key to customer success.
 
